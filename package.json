@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "crypto-fs": "^0.6.0",
-    "express": "3.3.7",
+    "express": "3.11.0",
     "jade": "*",
     "nodeJs-zip": "^1.0.4",
     "socket.io": "^2.0.1",
